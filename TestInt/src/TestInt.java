@@ -71,7 +71,7 @@ public class TestInt {
 		*/
 		
 		/*
-		 int a[] = new int[] {1,2,3,4,5}; 
+		 int a[] = new int[] {1,2,3,4,6}; 
 		 try
 		 { 
 			System.out.println(a[6]); 
